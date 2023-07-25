@@ -127,6 +127,9 @@ npx eslint .
 - GitHub: [Arch-Noize](https://github.com/Arch-Noize)
 - LinkedIn: [Santiago Ruido](https://www.linkedin.com/in/santiago-ruido-a1404880/)
 
+👤 **Pushkar Gautam**
+- Github: [pushkar1995](https://github.com/pushkar1995)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
